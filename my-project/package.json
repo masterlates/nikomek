@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
